@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Ritam Ghosh](mailto:ritam.ghosh@owasp.org)
+* [Suman Sankar Bhunia](mailto:suman.bhunia@owasp.org)
