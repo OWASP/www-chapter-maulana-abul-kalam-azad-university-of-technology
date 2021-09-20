@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Maulana Abul Kalam Azad University of Technology
+title: OWASP Maulana Abul Kalam Azad University of Technology - Student Chapter
 tags: OWASP MAKAUT
 region: Asia
 meetup-group:
