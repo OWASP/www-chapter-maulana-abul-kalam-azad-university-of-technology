@@ -4,11 +4,13 @@ layout: col-sidebar
 title: OWASP Maulana Abul Kalam Azad University of Technology - Student Chapter
 tags: OWASP MAKAUT
 region: Asia
+currency: in
+country: India
 meetup-group: owasp-maulana-abul-kalam-azad-univ-of-tech-student-chapte
 
 ---
 
-<div style='color:red;'>
+<!-- <div style='color:red;'>
 
 This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
 
@@ -24,14 +26,12 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 <li>meetup-group: This is the name of your meetup group, usually in the form of OWASP-chapter.  By putting these details here, the section below labeled 'Next Meeting/Event' will get automatically populated with your upcoming meetup events.</li>
 </ul>
 
-</div>
+</div> -->
 
 ## Welcome
 OWASP Maulana Abul Kalam Azad University of Technology Student Chapter was founded on 1st September 2021. Founded by Ritam Ghosh & Kaustav Pallob with a vision to share the knowledge for cyber security. 
 The chapter presents opportunities to contribute in securing cyber space. 
-Join us to be a part of <B>Cyber Offense Defense Squad<B>.
-
-
+Join us to be a part of <B>Cyber Offense Defense Squad<B>. 
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
@@ -74,7 +74,11 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 ## Next Meeting/Event
 ---------------------
-{% include chapter_events.html group=page.meetup-group %}
+Follow chapter news on [Linkedin](https://www.linkedin.com/company/owasp-chapter-maulana-abul-kalam-azad-university-of-technology/) \| [Meetup](https://www.meetup.com/owasp-maulana-abul-kalam-azad-univ-of-tech-student-chapter/) to get notification upcoming Meeting/Event.
+<!--   \| [Telegram](https://t.me/) \| [Facebook Group](https://www.facebook.com/groups//) \| [Twitter](https://twitter.com/)
+ -->
+<!---
+ 
 
 ```
 {info.md}
