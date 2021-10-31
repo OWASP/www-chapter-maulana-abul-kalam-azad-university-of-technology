@@ -33,11 +33,6 @@ OWASP Maulana Abul Kalam Azad University of Technology Student Chapter was found
 The chapter presents opportunities to contribute in securing cyber space. 
 Join us to be a part of <B>Cyber Offense Defense Squad<B>. 
 
-Follow chapter news on [Linkedin](https://www.linkedin.com/company/owasp-chapter-maulana-abul-kalam-azad-university-of-technology/) \| [Meetup](https://www.meetup.com/owasp-berhampore-chapter) 
-<!--   \| [Telegram](https://t.me/) \| [Facebook Group](https://www.facebook.com/groups//) \| [Twitter](https://twitter.com/)
- -->
-
-
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
@@ -79,6 +74,9 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 
 ## Next Meeting/Event
 ---------------------
+Follow chapter news on [Linkedin](https://www.linkedin.com/company/owasp-chapter-maulana-abul-kalam-azad-university-of-technology/) \| [Meetup](https://www.meetup.com/owasp-maulana-abul-kalam-azad-univ-of-tech-student-chapter/) to get notification upcoming Meeting/Event.
+<!--   \| [Telegram](https://t.me/) \| [Facebook Group](https://www.facebook.com/groups//) \| [Twitter](https://twitter.com/)
+ -->
 <!---
  
 
