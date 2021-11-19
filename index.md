@@ -28,8 +28,5 @@ Chapters are led by local leaders in accordance with the [Chapters Policy](/www-
 <img src="assets/images/OWASP_20th_Anniversary.jpeg">
 
 ## Upcoming Meetup Events
-
-{% include chapter_events.html group=page.meetup-group %}
- 
-Follow us on Twitter to know about more upcoming events and instant updates
+https://www.meetup.com/owasp-makaut/
 
