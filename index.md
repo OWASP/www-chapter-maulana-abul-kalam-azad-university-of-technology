@@ -5,7 +5,7 @@ title: OWASP Maulana Abul Kalam Azad University of Technology
 tags: OWASP MAKAUT
 level: 6
 region: Asia
-meetup-group: OWASP-MAKAUT-Meetup-Group
+meetup-group: owasp-makaut
 
 ---
 
@@ -28,5 +28,4 @@ Chapters are led by local leaders in accordance with the [Chapters Policy](/www-
 <img src="assets/images/OWASP_20th_Anniversary.jpeg">
 
 ## Upcoming Meetup Events
-https://www.meetup.com/owasp-makaut/
 
