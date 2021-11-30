@@ -29,3 +29,4 @@ Chapters are led by local leaders in accordance with the [Chapters Policy](/www-
 
 ## Upcoming Meetup Events
 
+{% include chapter_events.html group=page.meetup-group %}
