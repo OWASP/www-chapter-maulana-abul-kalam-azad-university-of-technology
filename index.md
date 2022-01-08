@@ -23,7 +23,7 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/legal/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
 
 
-**OWASP Chennai proudly celebrating OWASP’s 20th Anniversary!**
+**OWASP MAKAUT proudly celebrating OWASP’s 20th Anniversary!**
 
 <img src="assets/images/OWASP_20th_Anniversary.jpeg">
 
